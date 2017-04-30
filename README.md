@@ -1,3 +1,4 @@
-#Git Repository
+﻿# Git Repository
 
-あああ
+あああ aaaa
+wrote kurata
